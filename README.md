@@ -1,1 +1,1 @@
-solving problems using sql
+Solving problems using SQL
